@@ -1,0 +1,113 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');
+h1{
+   background-color: bisque;
+   color: black ;
+   text-align: center;
+   font-family: 'Dancing Script', cursive;
+}
+span{
+    color:royalblue ;
+    background-color: violet;
+    font-size: 50px;
+}
+
+body{
+    background-image: url("./images/istockphoto-1206323282-612x612.jpg");
+   background-repeat: no-repeat;
+   background-size: 78%;
+   background-position: center;
+   
+
+}
+
+.parent{
+    height: 666px;
+   
+    display: flex;
+    justify-content: space-evenly;
+    align-items:center;
+
+    
+}
+
+
+
+.col{
+    width: 407px;
+    height: 614px;
+    font-size: 15px;
+    border-style: double;
+    box-shadow: 0 28px 25px 0 rgba(0, 0, 0, 0.2), 0 36px 30px 0 rgba(0, 0, 0, 0.19);
+  
+    
+}
+.col-1{
+    color: rgb(49, 49, 53);
+}
+.col-1 img{
+   width: 406px;
+   height: 300px;
+   border-radius: 35px;
+
+}
+button{
+    width: 100px;
+    height: 40px;
+    border-radius: 30px;
+    margin-left: 140px;
+}
+button:hover{
+    background-color: black;
+    color: blueviolet;
+}
+
+.col-2{
+    color: rgb(11, 11, 12);
+}
+.col-2 img{
+   width: 407px;
+   height: 300px;
+   border-radius: 35px;
+
+}
+button{
+    width: 100px;
+    height: 40px;
+    border-radius: 30px;
+    margin-left: 140px;
+}
+.col-3{
+    color: rgb(21, 21, 22);
+}
+.col-3 img{
+   width: 408px;
+   height: 300px;
+   border-radius: 35px;
+
+}
+button{
+    width: 100px;
+    height: 40px;
+    border-radius: 30px;
+}
+    
+    .col-4{
+        color: rgb(13, 13, 14);
+    }
+    .col-4 img{
+       width: 408px;
+       height: 300px;
+       border-radius: 35px;
+    
+    }
+    button{
+        width: 100px;
+        height: 40px;
+        border-radius: 30px;
+        margin-left: 140px;
+    
+}
+
+
+
+
